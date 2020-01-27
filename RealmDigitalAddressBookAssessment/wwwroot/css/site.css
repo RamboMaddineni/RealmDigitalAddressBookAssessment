@@ -1,0 +1,23 @@
+﻿.dataTables_length {
+    display: none;
+}
+
+#datatable_filter input {
+    width: 300PX;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.data-actions a {
+    display: inline-block;
+    width: 40px;
+    cursor: pointer;
+}
+
+.data-actions {
+    text-align: right;
+}
+
+.contact-name, .contact-name-header, .contact-number-header, .contact-email-header {
+    text-align: center
+}
